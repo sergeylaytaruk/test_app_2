@@ -1,0 +1,15 @@
+{
+    "name": "siriussl/test_app_2",
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey laytaruk",
+            "email": "sergey.laytaruk@gmail.com"
+        }
+    ],
+    "require": {}
+}
