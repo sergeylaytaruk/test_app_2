@@ -6,11 +6,6 @@ use db\MyDb;
 
 class Articles
 {
-    public function __construct()
-    {
-        //
-    }
-
     public function getLastItems()
     {
         return (new MyDb())->getLastIArticles();
